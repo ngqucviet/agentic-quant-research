@@ -1,0 +1,14 @@
+# Core numerical & data processing
+numpy>=1.26.0
+pandas>=2.1.0
+pydantic>=2.6.0
+matplotlib>=3.8.0
+yfinance>=0.2.40
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
+
+# Optional LLM SDKs (uncomment the provider you want to use later)
+# google-genai>=1.0.0
+# openai>=1.50.0
